@@ -102,6 +102,7 @@ body {
     .product-image {
       border-radius: 20px 0 0 20px;
       height: 100%;
+      margin-bottom: 0;
     }
 
     .mobile {
